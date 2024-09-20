@@ -47,7 +47,7 @@ The following business questions were developed for analysis purpose:
 5. **Write a SQL query to find all transactions where the total_sale is greater than 1000.**
 6. **Write a SQL query to find the total number of transactions (transaction_id) made by each gender in each category.**
 7. **Write a SQL query to calculate the average sale for each month. Find out best selling month in each year**
-8. **Write a SQL query to find the top 5 customers based on the highest total sales **
+8. **Write a SQL query to find the top 5 customers based on the highest total sales**
 9. **Write a SQL query to find the number of unique customers who purchased items from each category.**
 10. **Write a SQL query to create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17)**:
 
@@ -73,6 +73,6 @@ This project is showcasing the SQL skills essential for data analyst roles. If y
 
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
 
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/najirr)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/mayuri-dandekar96/)
 
 Thank you for your support, and I look forward to connecting with you!
